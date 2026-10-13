@@ -24,7 +24,9 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "overrides": {},
+  "overrides": {
+    "chokidar": "^4.0.0"
+  },
   "devDependencies": {
     "nodemon": "^3.1.14"
   }
